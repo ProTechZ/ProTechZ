@@ -25,17 +25,6 @@ I'm a software engineer who knows all about Full Stack Dev 🖥️, App Dev 📱
 
 ---
 
-## My Stats 🔥
-<div align="center">
-<!--   <div> -->
-    <img  src="https://github-readme-stats.vercel.app/api?username=ProTechZ&show_icons=true&theme=radical" />
-    <img style="margin:0px 50px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProTechZ&layout=compact&theme=radical"/>
-<!--   </div> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProTechZ&theme=radical" />
-</div>
-
----
-
 ## Languages and Tools 🛠️
 
 <table> 
