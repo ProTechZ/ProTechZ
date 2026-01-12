@@ -4,14 +4,6 @@
   I'm Zion 😁
 </h1>
 
-<div id="header" align="center">
- <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
-</div>
-
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ProTechZ&style=flat-square&color=blue" alt=""/>
-</div>
-
 ---
 
 ## Quick Summary 🔁
